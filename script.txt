@@ -1,0 +1,5 @@
+help 
+
+set x 100
+
+print x

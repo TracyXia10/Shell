@@ -1,0 +1,7 @@
+set z 300
+
+print z
+
+print y
+
+print x
